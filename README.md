@@ -43,12 +43,14 @@ Includes:
 
 ### MT4 / MT5
 BUY executed at 1.25678 Lots=0.50 SL=1.25178 TP=1.26678
+
 SELL executed at 1.26432 Lots=0.50 SL=1.26932 TP=1.25432
 
 *(Logged in MetaTrader Experts tab)*
 
 ### C# Backtester Output
 2025-08-28 11:05: BUY @ 1.25678 Lots=0.50 SL=1.25178 TP=1.26678
+
 2025-08-28 11:20: SELL @ 1.26432 Lots=0.50 SL=1.26932 TP=1.25432
 
 ## Parameters
