@@ -1,0 +1,30 @@
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+*.ncb
+*.svclog
+*.pdb
+
+# Backtester / C#
+*.exe
+*.dll
+*.vs
+.vs/
+
+# MT4 / MT5
+*.ex4
+*.ex5
+*.mqh
+*.tpl
+
+# cTrader / cBot
+*.pdb
+*.dll
+
+# OS
+.DS_Store
+Thumbs.db
