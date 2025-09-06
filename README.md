@@ -18,21 +18,6 @@ Includes:
 
 ---
 
-## Folder Structure
-
-StochasticFramework/
-│
-├── Core/ # Shared strategy logic
-│ ├── StochasticStrategy.cs
-│ └── StochasticOscillator.cs
-│
-├── MT4/ # MT4 Expert Advisor
-├── MT5/ # MT5 Expert Advisor
-├── cTrader/ # cTrader cBot
-└── Backtester/ # Pure C# backtester
-
----
-
 ## Usage
 
 ### MT4 / MT5
